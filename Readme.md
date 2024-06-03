@@ -18,19 +18,19 @@ This project is a full-stack application for movie recommendations. It allows us
 ![Home Page](screenshots/Screenshot_1.png)
 
 ### Movie Details
-![Movie Details](screenshots/Screenshot_2.png)
-
-### Login Page
-![Login Page](screenshots/Screenshot_3.png)
-
-### Favorite Movies
-![Favorite Movies](screenshots/Screenshot_4.png)
+![Movie Details](screenshots/Screenshot_8.png)
 
 ### Login Page
 ![Login Page](screenshots/Screenshot_7.png)
 
 ### SignUp Page
 ![SignUp Page](screenshots/Screenshot_6.png)
+
+### Favorite Movies
+![Favorite Movies](screenshots/Screenshot_2.png)
+
+
+
 
 ## Technology Stack
 
