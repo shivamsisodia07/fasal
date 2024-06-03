@@ -88,11 +88,11 @@ project
 
 2. **Install dependencies for both client and server**
 # For backend
-cd server
+cd backend
 npm install
 
 # For frontend
-cd ../client
+cd frontend
 npm install
 
 
